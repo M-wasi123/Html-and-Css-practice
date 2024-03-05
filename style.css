@@ -17,6 +17,7 @@
 .pera1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     letter-spacing: 2px;
+    text-align: center;
 }
 .images{
     width: 70%;
@@ -28,6 +29,7 @@
 }
 .heading1{
     color: black;
+    text-align: center;
 }
 .pera2{
     font-size: 11px;
