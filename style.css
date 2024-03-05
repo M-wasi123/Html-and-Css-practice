@@ -1,0 +1,108 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    color: rgb(116, 115, 115);
+    background-color: azure;
+}
+.parrent-box{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0px;
+    gap: 30px;
+}
+.pera1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 2px;
+}
+.images{
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 30px;
+    align-items: center;
+    padding: 40px 0px;
+}
+.heading1{
+    color: black;
+}
+.pera2{
+    font-size: x-small;
+    text-align: center;
+}
+.web-devolopment{
+    width: 110%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+#lovepik{
+    width: 60%;
+    height: 150px;
+    object-fit: contain;
+    background-color: azure;
+}
+.data-analytics{
+    width: 110%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+#analytics{
+    width: 60%;
+    height: 150px;
+    object-fit: contain;
+}
+.visual-computing{
+    width: 110%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+#computing{
+    width: 60%;
+    height: 150px;
+    object-fit: contain;
+}
+.ui-ux{
+    width: 110%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+#uiux{
+    width: 60%;
+    height: 150px;
+    object-fit: contain;
+}
+.android-development{
+    width: 110%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+#android{
+    width: 60%;
+    height: 150px;
+    object-fit: contain;
+}
+.ios-development{
+    width: 110%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+#ios{
+    width: 60%;
+    height: 150px;
+    object-fit: contain;
+}
